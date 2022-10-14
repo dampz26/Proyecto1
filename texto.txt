@@ -1,0 +1,13 @@
+Esta es una prueba de control de versiones de Git
+
+En el curso de Git y Github profesional instruido por Freddy Vega
+
+Un poco aburrido
+
+No sé que estoy haciendo
+
+Espero tener un trabajo como desarrollador algún día 
+
+Amén 
+
+O por lo menos hacer el juego que quiero y aprender a programar bien
