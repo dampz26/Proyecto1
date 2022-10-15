@@ -7,4 +7,9 @@ body {
 #container {
     width: 70%;
     height: 200px;
+    color: aqua;
+    border: 2px;
+    padding: 2px;
+    box-sizing: border-box;
+    text-align: center;
 }
